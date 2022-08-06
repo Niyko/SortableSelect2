@@ -16,7 +16,8 @@ You can use the Select2 CDN :
 #### 3) Add SortableSelect2 plugin to the website
 You can use the Select2 CDN :
 `````Html
-<script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+<link href="https://cdn.jsdelivr.net/gh/Niyko/SortableSelect2/src/sortable.select2.css" rel="stylesheet" />
+<script src="https://cdn.jsdelivr.net/gh/Niyko/SortableSelect2/src/sortable.select2.js"></script>
 `````
 #### 4) Initialize SortableSelect2
 Finally, we need to initialize SortableSelect2 as shown below. You don't need to additionally initialize Select2. SortableSelect2 will take care of that.
