@@ -24,4 +24,4 @@ Finally, we need to initialize SortableSelect2 as shown below. You don't need to
 $("select[multiple]").sortableSelect2();
 `````
 # License
-AsyncBee is licensed under the [GNU GENERAL PUBLIC LICENSE](https://github.com/Niyko/AsyncBee/blob/master/LICENSE).
+SortableSelect2 is licensed under the [MIT LICENSE (MIT)](https://github.com/Niyko/SortableSelect2/blob/master/LICENSE).
