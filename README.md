@@ -1,5 +1,5 @@
 ![SortableSelect2 logo](https://i.imgur.com/XhTkYMp.png)
-A small plugin that will make the Select2 Jquery library for multiple select sortable. Select2 is a jQuery-based replacement for select boxes. Select2 gives you a customizable select box with support for searching, tagging, remote data sets, infinite scrolling, and many other highly used options. SortableSelect2 will make the multi-selection boxes sortable.
+A small plugin that will make the [Select2](https://github.com/select2/select2) Jquery library for multiple select sortable. Select2 is a jQuery-based replacement for select boxes. Select2 gives you a customizable select box with support for searching, tagging, remote data sets, infinite scrolling, and many other highly used options. SortableSelect2 will make the multi-selection boxes sortable.
 
 ## Get started
 #### 1) Add Jquery to the website
